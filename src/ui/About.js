@@ -26,17 +26,17 @@ const About = () => {
       <section id="about" className="about">
          <div className="container" data-aos="fade-up">
             <div className="section-header">
-               <h2>Helping Clients ACHIEVE their Vision</h2>
+               <h2>Building Products that Empower Founders and Inspire Growth</h2>
             </div>
             <div className="row gy-4 align-items-center" data-aos="fade-up">
                <div className="col-lg-6">
                   <img src={about_img} className="img-fluid" alt="Helping Clients achieve their Vision" title="Helping Clients achieve their Vision" />
                </div>
                <div className="col-lg-6">
-                  <p> We started Symbiotic Infotech in 2005. When we started our company, we knew we would be working together with our mobile carrier clients to help increase their top-line revenue.</p>
-                  <p> We came up with the name Symbiotic because the definition of a symbiotic relationship is one in which organisms, people, or things exist together in a way that benefits them all. As our stated mission suggest, we exist to benefit our mobile carrier clients by increasing their top line revenue.</p>
-                  <p> Since then, Symbiotic has seen unprecedented growth and is one of the largest and fastest growing VAS companies in India. We have generated multi-million dollars in revenue for our clients and currently service over 20 million customers and growing.</p>
-                  <p> Our determination to help our clients succeed is only one facet of Symbiotic. When we started Symbiotic, we wanted to create a company that not only succeeded financially, we strive to take care of our employees, and to give back to our community. That is why Symbiotic donates a portion of every dollar we earn to make a difference in this world.</p>
+                  <p> We started our journey with a simple belief that every great product begins with an idea, and every idea deserves the right technology to bring it to life. Since our inception, we have worked hand in hand with founders and startups to turn their visions into scalable, high-performing digital products that make a real impact.</p>
+                  <p> Our team was built on collaboration, transparency, and innovation. We exist to empower our clients by engineering solutions that not only meet their needs but also exceed expectations through creativity, precision, and a relentless focus on quality.</p>
+                  <p> Over the years, we have partnered with businesses across HealthCare, AI and ML, E-Commerce and Retail, and SaaS, helping them launch faster, grow smarter, and scale confidently. What started as a small group of passionate developers has now evolved into a global team delivering products that shape the future of technology-driven startups.</p>
+                  <p>We continue to push boundaries by embracing emerging technologies, refining our processes, and maintaining a deep commitment to excellence. Our goal is to build lasting relationships with founders who share our passion for innovation and impact.</p>
                </div>
             </div>
          </div>
@@ -51,7 +51,7 @@ const About = () => {
                         <div className="col-xl-12">
                            <div className="card-body">
                               <h4 className="card-title"> Vision</h4>
-                              <p>To become world's leading telecom company for value added services and create an outstanding value for customers and stake holders.</p>
+                              <p>To become a globally recognized technology partner for startups, empowering founders to build world-class digital products that drive innovation, growth, and impact.</p>
                            </div>
                         </div>
                      </div>
@@ -64,7 +64,7 @@ const About = () => {
                         <div className="col-xl-12">
                            <div className="card-body">
                               <h4 className="card-title"> Mission</h4>
-                              <p>To anticipate the need of telecom consumers and deliver outstanding products those are value for money.</p>
+                              <p>To help startups and founders transform ideas into successful, scalable products by combining technical expertise, creative design, and a deep understanding of business goals.</p>
                            </div>
                         </div>
                      </div>
@@ -77,7 +77,7 @@ const About = () => {
                         <div className="col-xl-12">
                            <div className="card-body">
                               <h4 className="card-title">Our Values</h4>
-                              <p> Our business is driven by our consumer focus, creativity, resourcefulness, and entrepreneurial spirit. We are an inspired diverse team, we respect and value everyone's contribution.</p>
+                              <p> We value innovation, integrity, and collaboration. Our culture is built on trust and creativity, driving us to solve real problems and deliver meaningful technology.</p>
                            </div>
                         </div>
                      </div>
@@ -92,7 +92,7 @@ const About = () => {
          <div className="container">
             <div className="section-header">
                <h2>Our Team</h2>
-               <p>Leveraging their vast experience within the Telecom value added services industry, Symbiotic's leadership team is dedicated to meet and exceed customer expectations with innovative and cost-effective solutions, industry know-how and unmatched services.</p>
+               <p>We are a diverse group of developers, designers, and strategists united by a shared passion for building exceptional products. Our team combines technical expertise with creative problem-solving to deliver solutions that help startups grow, scale, and succeed.</p>
             </div>
             <div className="row member d-flex align-items-center ">
                <div className="col-md-2">
@@ -104,7 +104,7 @@ const About = () => {
                      <span>Co-Founder & Director</span>
                      <p>Padma is a visionary Technocrat with 16 Years of experience and has worked with consulting majors & service industries in the field of IT technologies. His specialization includes Networking, Securities, System Architecture, Data base and Enterprise solutions .</p>
                      <div className="social">
-                     <Link to ="/"><i className="bi bi-twitter"></i></Link>                
+                     <Link to="/"><i className="bi bi-envelope-fill"></i></Link>
                      <Link to ="/"> <i className="bi bi-linkedin"></i> </Link>
                      </div>
                   </div>
@@ -121,8 +121,8 @@ const About = () => {
                      <p>Sundar is a visionary and entrepreneur in his own right. He has worked with IT and Engineering majors before entering the telecom business. He has over 14 years of management experience with IT & Engineering majors and has significant global experience and also an expert in corporate alliance. </p>
                      <p> Sundar has extensive multi-functional management experience in marketing, sales, business and corporate development and holds a Bachelors degree in  Electrical & Electronic Engineering.</p>
                      <div className="social">
-                        <Link to ="/"><i className="bi bi-twitter"></i></Link>                
-                        <Link to ="https://www.linkedin.com/in/sundaramoorthy-velayutham-92697aa/"> <i className="bi bi-linkedin" target="_blank"></i> </Link>
+                     <Link to="/"><i className="bi bi-envelope-fill"></i></Link>
+                     <Link to ="/"> <i className="bi bi-linkedin"></i> </Link>
                      </div>
                   </div>
                </div>

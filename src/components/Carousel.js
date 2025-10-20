@@ -22,23 +22,21 @@ const Carousel = () => {
           >
             <div className="col-lg-7 col-md-12 col-12">
               <h2 data-aos="fade-up">
-                Global Leader In Telecom VAS, Mobile Learning, Entertainment &
-                Sports
+                Leaders in Startup Tech, Product Development & Digital Transformation
               </h2>
               <blockquote data-aos="fade-up" data-aos-delay="100">
                 <p>
-                  We are a global leader in Telcom VAS, offer Services across
-                  Educational Content, Entertainment Content, Games and sports
+                  We are a global team of engineers, designers, and strategists helping startups turn bold ideas into scalable, high-performing products. 
                 </p>
               </blockquote>
               <div className="d-flex align-items-center">
                 <Link to="/about" className="btn-get-started">
                   Read More
                 </Link>
-                <ModalVideo channel='youtube' autoplay='true' isOpen={isOpen} videoId="yqWX86uT5jM" onClose={() => setOpen(false)} />
+                {/* <ModalVideo channel='youtube' autoplay='true' isOpen={isOpen} videoId="yqWX86uT5jM" onClose={() => setOpen(false)} />
               <span className="btn-watch-video d-flex align-items-center pointer" onClick={()=> setOpen(true)}> <i className="bi bi-play-circle-fill"></i>
                 <span>Watch Intro</span>
-              </span>
+              </span> */}
               </div>
             </div>
             <div className="col-lg-5 col-md-12 col-12">

@@ -14,7 +14,7 @@ const Home = () => {
       <Carousel />
       <main id="main">
         <ServiceList/>
-        <ClientList/>
+        {/* <ClientList/> */}
         <Facts/>
         <Revenue/>
       </main>

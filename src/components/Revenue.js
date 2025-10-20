@@ -11,10 +11,10 @@ const Revenue = () => {
           <div className="container" data-aos="fade-up" data-aos-delay="300">
             <div className="row">
               <div className="col-md-7">
-                <h4>Drive revenue and optimise your Business</h4>
-                <p>We have fortified our services with almost two decades of being a VAS major, with our unified experience, coupled with latest product line that interests consumers with their diversified needs of meaningful and engaging content.</p>
-                <p> Our abreast technology trends and unabating innovation has always enhanced the business impact for our clients resulting in happy faces seeing the revenue graph.</p>
-                <p> We are always focused on unfolding new revenue streams for our operators with our innovative service line and as well meeting clients specific requirements. </p>
+                <h4>Empowering Startups and Founders Across Industries</h4>
+                <p>We’ve collaborated with startups and founders to transform ambitious ideas into scalable, high-performing digital products. Our expertise spans across HealthCare, AI/ML, E-Commerce & Retail, and SaaS, enabling us to deliver tailored solutions that meet diverse business goals.</p>
+                <p> With a strong focus on innovation and engineering excellence, we build products that combine usability, performance, and long-term scalability.</p>
+                <p> We continue to push boundaries through technology, helping our clients grow faster, adapt to change, and make a lasting impact in their industries.</p>
                 <Link to="/about" className="btn-get-started">Read More</Link>
               </div>
               <div className="col-lg-5 position-relative" data-aos="fade-up" data-aos-delay="200">

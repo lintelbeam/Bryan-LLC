@@ -10,23 +10,23 @@ const Facts = () => {
             <div className="col-lg-12 text-center">
               <div className="section-header">
                 <h2 className="text-white">Our Footprints</h2>
-                <p>Delivering service excellence to over 43 million Happy Customers across geography… </p>
+                <p>We’ve collaborated with startups and visionary founders from diverse industries. </p>
               </div>
               <div className="row counters">
                 <div className="col-lg-4 col-6 text-center">
                   <span  className="purecounter">17</span>
-                  <h3> COUNTRIES </h3>
-                  <p> Global Presence </p>
+                  <h3> PROJECT DELIVERED </h3>
+                  <p> Across diverse industries and technologies. </p>
                 </div>
                 <div className="col-lg-4 col-6 text-center">
-                  <span className="purecounter">82</span>
+                  <span className="purecounter">8</span>
                   <h3> CUSTOMERS </h3>
-                  <p>Across the Globe</p>
+                  <p>From startups to established enterprises.</p>
                 </div>
                 <div className="col-lg-4 col-6 text-center">
-                  <span  className="purecounter">43</span>
-                  <h3> MILLION USERS</h3>
-                  <p>Monthly Users (Active Base) </p>
+                  <span  className="purecounter">10</span>
+                  <h3>YEARS OF EXPERIENCE</h3>
+                  <p>Building scalable and impactful products.</p>
                 </div>
               </div>
             </div>
