@@ -2,8 +2,8 @@ import React from 'react'
 import AOS from "aos";
 import '../../node_modules/aos/dist/aos.css'
 import about_img from '../img/about-image.jpg'
-import manag_photo1 from '../img/team/Padmakumar.png';
-import manag_photo2 from '../img/team/Sundaramoorthy.png';
+import manag_photo1 from '../img/robert.jpeg';
+import manag_photo2 from '../img/bryan.jpg';
 import InnerHeaderBanner from '../components/InnerHeaderBanner';
 import InnerHeader from '../components/InnerHeader';
 import Footer from '../components/Footer';
@@ -100,9 +100,9 @@ const About = () => {
                </div>
                <div className="col-md-10">
                   <div className="member-info">
-                     <h4>T.Padmakumar</h4>
+                     <h4>Robert C</h4>
                      <span>Co-Founder & Director</span>
-                     <p>Padma is a visionary Technocrat with 16 Years of experience and has worked with consulting majors & service industries in the field of IT technologies. His specialization includes Networking, Securities, System Architecture, Data base and Enterprise solutions .</p>
+                     <p>Robert is a visionary Technocrat with 10 Years of experience and has worked with consulting majors & service industries in the field of IT technologies. His specialization includes Networking, Securities, System Architecture, Data base and Enterprise solutions .</p>
                      <div className="social">
                      <Link to="/"><i className="bi bi-envelope-fill"></i></Link>
                      <Link to ="/"> <i className="bi bi-linkedin"></i> </Link>
@@ -116,10 +116,9 @@ const About = () => {
                </div>
                <div className="col-md-10">
                   <div className="member-info">
-                     <h4>V.Sundaramoorthy </h4>
+                     <h4>Bryan W </h4>
                      <span>Co-Founder & Director</span>
-                     <p>Sundar is a visionary and entrepreneur in his own right. He has worked with IT and Engineering majors before entering the telecom business. He has over 14 years of management experience with IT & Engineering majors and has significant global experience and also an expert in corporate alliance. </p>
-                     <p> Sundar has extensive multi-functional management experience in marketing, sales, business and corporate development and holds a Bachelors degree in  Electrical & Electronic Engineering.</p>
+                     <p>Bryan is a visionary and entrepreneur in his own right. He has worked with IT and Engineering majors before entering the telecom business. He has over 14 years of management experience with IT & Engineering majors and has significant global experience and also an expert in corporate alliance. </p>
                      <div className="social">
                      <Link to="/"><i className="bi bi-envelope-fill"></i></Link>
                      <Link to ="/"> <i className="bi bi-linkedin"></i> </Link>

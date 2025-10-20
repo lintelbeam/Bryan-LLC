@@ -6,13 +6,15 @@ import ClientList from "../components/ClientList";
 import Facts from "../components/Facts";
 import ServiceList from "../components/ServiceList";
 import Revenue from "../components/Revenue";
+import ReasonSection from "../components/ReasonList";
 
 const Home = () => {
   return (
     <>
       <InnerHeader />
       <Carousel />
-      <main id="main">
+      <main id="main" style={{ paddingTop: '20px' }}>
+        <ReasonSection/>
         <ServiceList/>
         {/* <ClientList/> */}
         <Facts/>

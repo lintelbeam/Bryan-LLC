@@ -24,7 +24,7 @@ const ServiceList = () => {
                 </div>
                 <div>
                   <h4 className="title">
-                    <Link to="/services" className="stretched-link">
+                    <Link to="/services/web-mobile-development" className="stretched-link">
                       Web & Mobile Development{" "}
                     </Link>
                   </h4>
@@ -56,7 +56,7 @@ const ServiceList = () => {
                 </div>
                 <div>
                   <h4 className="title">
-                    <Link to="/services" className="stretched-link">
+                    <Link to="/services/design" className="stretched-link">
                       Product Design & UI/UX
                     </Link>
                   </h4>
@@ -67,7 +67,7 @@ const ServiceList = () => {
                     Every product we design is built to attract users, 
                     strengthen engagement, and elevate your brand identity.
                   </p>
-                  <Link to="/services" className="btn-get-started">
+                  <Link to="/services/design" className="btn-get-started">
                     Read More
                   </Link>
                 </div>
@@ -88,7 +88,7 @@ const ServiceList = () => {
                 </div>
                 <div>
                   <h4 className="title">
-                    <Link to="/services" className="stretched-link">
+                    <Link to="/services/consultation" className="stretched-link">
                       Product Consultation{" "}
                     </Link>
                   </h4>
@@ -100,7 +100,7 @@ const ServiceList = () => {
                   strategy implementation, we guide and mentor your 
                   business to a fantastic end-product.
                   </p>
-                  <Link to="/services" className="btn-get-started">
+                  <Link to="/services/consultation" className="btn-get-started">
                     Read More
                   </Link>
                 </div>
@@ -121,7 +121,7 @@ const ServiceList = () => {
                 </div>
                 <div>
                   <h4 className="title">
-                    <Link to="/services" className="stretched-link">
+                    <Link to="/services/modernization" className="stretched-link">
                       Software Modernization{" "}
                     </Link>
                   </h4>
@@ -132,7 +132,7 @@ const ServiceList = () => {
                      application modernization strategy guaranteed to deliver
                       innovation and efficiency.{" "}
                   </p>
-                  <Link to="/services" className="btn-get-started">
+                  <Link to="/services/modernization" className="btn-get-started">
                     Read More
                   </Link>
                 </div>

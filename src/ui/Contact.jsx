@@ -98,14 +98,12 @@ const Contact = () => {
                   <i className="bi bi-geo-alt flex-shrink-0"></i>
                   <div>
                     <h4>Location:</h4>
-                    <h5>India:</h5>
+                    <h5>Singapore:</h5>
                     <p>
-                      # 1,Sundaram Illam,Chellamal Street, <br /> Shenoy Nagar,
-                      Chennai - 600 030.
+                      637 Choa Chu Kang North 6,
+                      Singapore
                     </p>
                     <br />
-                    <h5>U.A.E:</h5>
-                    <p>P.O.Box No 95114,Abu Dhabi,UAE </p>
                   </div>
                 </div>
 
@@ -114,8 +112,8 @@ const Contact = () => {
                   <div>
                     <h4>Email:</h4>
                     <p>
-                      <a href="mailto:info@symbioticinfo.com">
-                        info@symbioticinfo.com
+                      <a href="mailto:luckystarbear@gmail.com">
+                        luckystarbear@gmail.com
                       </a>
                     </p>
                   </div>
@@ -125,7 +123,7 @@ const Contact = () => {
                   <i className="bi bi-phone flex-shrink-0"></i>
                   <div>
                     <h4>Call:</h4>
-                    <p>+91 - 44 - 4208 2102</p>
+                    <p>+1 951 888 3606</p>
                   </div>
                 </div>
               </div>

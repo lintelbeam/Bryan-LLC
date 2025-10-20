@@ -1,5 +1,5 @@
 import React from "react";
-import footerLogo from '../img/sym-logo.svg'
+import footerLogo from '../img/symbiotic-logo.png'
 import { Link } from "react-router-dom";
 import { HashLink } from "react-router-hash-link";
 
@@ -16,8 +16,8 @@ const Footer = () => {
                   <img src={footerLogo} alt="" title="" />
                 </Link>
                 <p>
-                  We are a global leader in Telcom VAS, offer Services across
-                  Educational Content, Entertainment Content, Games and sports
+                  We are a global team of engineers, designers, and strategists helping
+                   startups turn bold ideas into scalable, high-performing products.
                 </p>
                 <div className="social-links d-flex  mt-3">
                   <Link to="/" className="twitter">
@@ -28,7 +28,7 @@ const Footer = () => {
                     <i className="bi bi-facebook"></i>
                   </Link>
                   
-                  <Link to ="https://www.linkedin.com/company/symbiotic-infotech-pvt-ltd/" className="linkedin">
+                  <Link to ="https://www.linkedin.com/company/" className="linkedin">
                     <i className="bi bi-linkedin"></i>
                   </Link>
                 </div>
@@ -63,23 +63,23 @@ const Footer = () => {
                 <ul>
                   <li>
                     <i className="bi bi-dash"></i>
-                    <HashLink smooth to ="/services/#Educational-content">
-                      Educational Content
+                    <HashLink smooth to ="/services/web-mobile-development">
+                      Software Development
                     </HashLink>
                   </li>
                   <li>
                     <i className="bi bi-dash"></i>
-                    <HashLink smooth to ="/services/#Entertainment-content">
-                      Entertainment Content
+                    <HashLink smooth to ="/services/design">
+                      Product Design & UI/UX
                     </HashLink>
                   </li>
                   <li>
                     <i className="bi bi-dash"></i>
-                    <HashLink smooth to="/services/#Games">Games</HashLink>
+                    <HashLink smooth to="/services/consultation">Product Consultation</HashLink>
                   </li>
                   <li>
                     <i className="bi bi-dash"></i>
-                    <HashLink smooth to ="/services/#Sports">Sports</HashLink>
+                    <HashLink smooth to ="/services/Software Modernization">Software Modernization</HashLink>
                   </li>
                 </ul>
               </div>
@@ -87,13 +87,13 @@ const Footer = () => {
                 <h4>Contact Us</h4>
                 <address>
                  
-                  #1,Sundaram Illam, <br /> Chellamal Street, <br /> Shenoy
-                  Nagar, Chennai - 600 030. <br />
+                  637 Choa Chu Kang North 6<br />
+                  Singapore <br />
                   <br />
-                  <strong>Phone:</strong> +91 - 44 - 4208 2102 <br />
+                  <strong>Phone:</strong> +1 951 888 3606 <br />
                   <strong>Email: </strong>
-                  <a href="mailto:info@symbioticinfo.com">                  
-                     info@symbioticinfo.com
+                  <a href="mailto:luckystarbear@gmail.com">                  
+                     luckystarbear@gmail.com
                   </a> 
                   <br />
                 </address>

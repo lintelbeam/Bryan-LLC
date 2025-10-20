@@ -1,7 +1,6 @@
-/**
-* Website Name: SymbioticInfotech
-* Author: Murugan
-**/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 
 /*--------------------------------------------------------------
